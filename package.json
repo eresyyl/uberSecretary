@@ -1,0 +1,27 @@
+{
+  "name": "ubersecretary",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000u\u0000b\u0000e\u0000r\u0000S\u0000e\u0000c\u0000r\u0000e\u0000t\u0000a\u0000r\u0000y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eresyyl/uberSecretary.git"
+  },
+  "author": "eresyyl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eresyyl/uberSecretary/issues"
+  },
+  "homepage": "https://github.com/eresyyl/uberSecretary#readme",
+  "dependencies": {
+    "agenda": "^1.0.3",
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.2.1",
+    "mongoose": "^4.13.1",
+    "node-fetch": "^1.7.3"
+  }
+}
